@@ -30,4 +30,4 @@ A hands-on **osTicket workflow and scenario-based troubleshooting portfolio** fo
 - [NOC Monitoring and Incident Response](https://github.com/kmauldinbm-ai/noc-network-monitoring-incident-response)
 
 ## Screenshot note
-All names, addresses, and events are part of a fictional training scenario. Screenshots are provided in the downloadable portfolio package until added to this repository.
+All names, addresses, and events are part of a fictional training scenario. The six osTicket screenshots are uploaded in their corresponding incident folders.
